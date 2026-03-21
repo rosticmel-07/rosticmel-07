@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 <br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<br><br>
 
 # 💫 About Me:
 Full-stack developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.

@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+Full-stack developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.
 <!--
 **rosticmel-07/rosticmel-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Full-stack developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

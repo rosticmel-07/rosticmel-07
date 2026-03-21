@@ -7,6 +7,8 @@
 <br><br>
 </div>
 
+<h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;">Rostyslav!</span></h2>
+
 # 💫 About Me:
 Full-stack developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.
 

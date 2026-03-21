@@ -1,6 +1,11 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
-<br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+and+app+developer" />
+</div>
 
+<div align="center" style="width: 700px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br><br>
+</div>
 
 # 💫 About Me:
 Full-stack developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.

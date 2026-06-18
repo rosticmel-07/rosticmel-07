@@ -10,14 +10,14 @@
 <h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;">Rostyslav!</span></h2>
 
 # 💫 About Me:
-Junior Full-stack developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.
+Junior Frontend developer with a focus on building modern web applications using JavaScript, TypeScript, React, and Node.js. I enjoy tackling challenging problems, learning new technologies, and writing clean, maintainable code. Strong soft skills help me collaborate effectively in teams and communicate ideas clearly. Always curious, I’m open to new projects, collaborations, and opportunities to grow as a developer.
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rosticmel@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-6DA55F?style=for-the-badge&logo=next.js&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rosticmel-07&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rosticmel-07&theme=gotham&hide_border=false)<br/>
